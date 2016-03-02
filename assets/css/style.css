@@ -1,0 +1,216 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300);
+
+body,html{
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+}
+
+/*# sourceMappingURL=style.css.map */
+*{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.Collage{
+    padding: 0px;
+
+}
+
+.Collage img{
+    margin: 1px 0;
+}
+
+.menu {
+        display: none;
+}
+
+.content img{
+    width: 100%;
+}
+
+
+
+.contest {
+    padding: 5px; 
+    height: 90px;
+    overflow: hidden;
+    transition: all 1s ease;
+}
+
+.contest img{
+    width: 500px;
+}
+
+.submit{
+    margin: 0px;   
+}
+
+.expand{
+    height: auto; 
+    transition: all 1s ease;
+}
+
+.upload-button{
+    background:  #ddd;
+    text-align: center;
+    cursor: pointer;
+}
+
+.upload-button img{
+    padding: 30%;
+/*
+    -webkit-filter: grayscale(.7);
+  filter: grayscale(.7);
+*/
+}
+
+
+.user-option{
+    cursor: pointer; 
+    font-size: 1.7rem;
+}
+
+input[type="submit"]{
+    margin-top: 8px !important;
+}
+
+#first_name, #last_name{
+    text-transform: capitalize;
+}
+
+label{
+    text-transform: capitalize;
+}
+
+.object-fit_scale-down{
+    padding: 5%;
+}
+
+.contest-image{
+    padding: 0 30%;
+}
+
+.view-photo{
+    
+}
+
+.userprofile-overlay{
+    width: 100%;
+    position: absolute;
+    height: 0px;
+    bottom: 0px;
+    background: red;    
+}
+
+div .photo-stream{
+    width: 100%;
+    height: 600px;
+    padding: 5px 0;
+}
+
+.album-image-container{
+    height: 470px;
+    overflow: hidden;
+    padding: 5%;
+}
+
+.album-image-container img{
+    max-height: 300px;
+}
+
+.btn-floating{
+    margin: 0 3px;
+}
+
+.strong{
+
+}
+
+#river-title{
+    color: #666;   
+}
+
+#likes{
+    position: absolute;
+    right: 10px;
+}
+
+.album-details{
+    position: absolute;
+    bottom: 5px;
+}
+
+.image-holder{
+    height: 400px;
+    overflow: hidden;
+    
+}
+
+main{
+    display: none;
+    position: fixed;
+}
+
+.expand-comment-box{
+    height: auto !important;
+}
+
+#delete{
+    padding: 0 0 20px 0;
+}
+
+.all-photos{
+/*    overflow-y: hidden !important;*/
+}
+
+.comments{
+    height: 0px;
+    transition: all 1s ease;    
+    -webkit-transition: all 1s ease; 
+}
+
+@media (max-width: 992px){
+
+    
+    div .photo-stream{
+        height: 800px !important;
+            
+}
+
+    .image-holder{
+        height: 600px !important
+}
+    
+    .image-details{
+
+    height: 200px !important;
+  }  
+    main{
+        display: block;   
+    }
+
+}
+
+
+
+@media (max-width: 1920px){
+
+    div .photo-stream{
+    width: 100%;
+    height: 400px;
+}
+    .image-holder{
+    height: 300px;
+    overflow: hidden;
+}
+    .image-details{
+    height: 100px;
+    padding: 2%;
+}
+    
+}
+
+@media (max-width: 1420px){
+    
+    
+}

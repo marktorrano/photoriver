@@ -1,0 +1,183 @@
+[25-Dec-2015 08:07:36 Europe/Berlin] PHP Warning:  require_once(sea/php): failed to open stream: No such file or directory in C:\xampp\htdocs\photoriver\userprofile.php on line 19
+[25-Dec-2015 08:07:36 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'sea/php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\photoriver\userprofile.php on line 19
+[25-Dec-2015 08:10:24 Europe/Berlin] PHP Warning:  require_once(sea/php): failed to open stream: No such file or directory in C:\xampp\htdocs\photoriver\userprofile.php on line 19
+[25-Dec-2015 08:10:24 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'sea/php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\photoriver\userprofile.php on line 19
+[12-Jan-2016 09:38:56 Pacific/Auckland] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\photoriver-master\includes\models\connection.php on line 14
+[12-Jan-2016 09:38:56 Pacific/Auckland] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\photoriver-master\includes\models\connection.php on line 26
+[12-Jan-2016 09:38:56 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in C:\xampp\htdocs\photoriver-master\includes\models\connection.php on line 33
+[12-Jan-2016 09:38:57 Pacific/Auckland] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\photoriver-master\includes\models\connection.php on line 14
+[12-Jan-2016 09:38:57 Pacific/Auckland] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\photoriver-master\includes\models\connection.php on line 26
+[12-Jan-2016 09:38:57 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in C:\xampp\htdocs\photoriver-master\includes\models\connection.php on line 33
+[13-Jan-2016 08:56:47 Pacific/Auckland] PHP Warning:  Missing argument 1 for Like::loadByUserID(), called in C:\xampp\htdocs\photoriver-master\includes\views\view.php on line 254 and defined in C:\xampp\htdocs\photoriver-master\includes\models\like.php on line 183
+[13-Jan-2016 08:56:47 Pacific/Auckland] PHP Notice:  Undefined variable: iUserID in C:\xampp\htdocs\photoriver-master\includes\models\like.php on line 188
+[13-Jan-2016 08:56:47 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in C:\xampp\htdocs\photoriver-master\includes\models\connection.php on line 33
+[13-Jan-2016 11:34:53 Pacific/Auckland] PHP Notice:  Undefined variable: oFormJoinContest in C:\xampp\htdocs\photoriver-master\contests.php on line 90
+[13-Jan-2016 11:34:53 Pacific/Auckland] PHP Fatal error:  Call to a member function makeFileInput() on a non-object in C:\xampp\htdocs\photoriver-master\contests.php on line 90
+[13-Jan-2016 11:35:10 Pacific/Auckland] PHP Notice:  Undefined variable: sHTMLJoinContest in C:\xampp\htdocs\photoriver-master\includes\views\view.php on line 21
+[13-Jan-2016 12:38:53 Pacific/Auckland] PHP Warning:  Creating default object from empty value in C:\xampp\htdocs\photoriver-master\contests.php on line 74
+[13-Jan-2016 12:38:53 Pacific/Auckland] PHP Fatal error:  Call to undefined method stdClass::checkFileUploaded() in C:\xampp\htdocs\photoriver-master\contests.php on line 75
+[13-Jan-2016 00:48:25 Europe/Berlin] PHP Parse error:  syntax error, unexpected ':' in C:\xampp\htdocs\photoriver-master\includes\models\album.php on line 248
+[13-Jan-2016 12:48:41 Pacific/Auckland] PHP Notice:  Undefined variable: oAlbum in C:\xampp\htdocs\photoriver-master\includes\views\view.php on line 39
+[13-Jan-2016 12:48:41 Pacific/Auckland] PHP Fatal error:  Call to a member function loadByContestID() on a non-object in C:\xampp\htdocs\photoriver-master\includes\views\view.php on line 39
+[13-Jan-2016 00:57:53 Europe/Berlin] PHP Notice:  Undefined variable: oUser in C:\xampp\htdocs\photoriver-master\entries.php on line 27
+[13-Jan-2016 00:57:53 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\photoriver-master\includes\views\view.php on line 62
+[13-Jan-2016 00:57:53 Europe/Berlin] PHP Notice:  Undefined variable: oUser in C:\xampp\htdocs\photoriver-master\entries.php on line 29
+[13-Jan-2016 00:57:53 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\photoriver-master\includes\views\view.php on line 88
+[13-Jan-2016 00:57:53 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\photoriver-master\includes\views\view.php on line 88
+[13-Jan-2016 00:57:53 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\photoriver-master\includes\views\view.php on line 92
+[13-Jan-2016 00:57:53 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\photoriver-master\includes\views\view.php on line 92
+[13-Jan-2016 00:57:53 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\photoriver-master\includes\views\view.php on line 93
+[13-Jan-2016 00:57:53 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\photoriver-master\includes\views\view.php on line 94
+[15-Jan-2016 08:53:29 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in C:\xampp\htdocs\photoriver-master\includes\models\connection.php on line 33
+[15-Jan-2016 08:55:04 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in C:\xampp\htdocs\photoriver-master\includes\models\connection.php on line 33
+[15-Jan-2016 08:55:10 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in C:\xampp\htdocs\photoriver-master\includes\models\connection.php on line 33
+[15-Jan-2016 08:56:14 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in C:\xampp\htdocs\photoriver-master\includes\models\connection.php on line 33
+[15-Jan-2016 08:56:17 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in C:\xampp\htdocs\photoriver-master\includes\models\connection.php on line 33
+[15-Jan-2016 08:56:26 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in C:\xampp\htdocs\photoriver-master\includes\models\connection.php on line 33
+[15-Jan-2016 08:56:26 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in C:\xampp\htdocs\photoriver-master\includes\models\connection.php on line 33
+[15-Jan-2016 09:28:56 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[15-Jan-2016 09:28:56 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[15-Jan-2016 09:28:57 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[15-Jan-2016 09:28:57 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[15-Jan-2016 09:28:57 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[15-Jan-2016 09:28:59 Pacific/Auckland] PHP Notice:  Undefined index: UserID in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/river.php on line 24
+[15-Jan-2016 09:28:59 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[15-Jan-2016 09:29:01 Pacific/Auckland] PHP Notice:  Undefined index: UserID in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/river.php on line 24
+[15-Jan-2016 09:29:01 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[15-Jan-2016 09:32:43 Pacific/Auckland] PHP Warning:  Creating default object from empty value in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/contests.php on line 73
+[15-Jan-2016 09:32:43 Pacific/Auckland] PHP Fatal error:  Call to undefined method stdClass::checkFileUploaded() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/contests.php on line 74
+[15-Jan-2016 09:33:21 Pacific/Auckland] PHP Warning:  Creating default object from empty value in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/contests.php on line 73
+[15-Jan-2016 09:33:21 Pacific/Auckland] PHP Fatal error:  Call to undefined method stdClass::checkFileUploaded() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/contests.php on line 74
+[15-Jan-2016 09:39:28 Pacific/Auckland] PHP Notice:  Undefined variable: oForm in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/entries.php on line 41
+[15-Jan-2016 09:39:28 Pacific/Auckland] PHP Fatal error:  Call to a member function makeFileInput() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/entries.php on line 41
+[15-Jan-2016 09:39:41 Pacific/Auckland] PHP Notice:  Undefined variable: aAllAlbums in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/entries.php on line 45
+[15-Jan-2016 09:39:41 Pacific/Auckland] PHP Notice:  Undefined variable: aAllAlbumNames in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/entries.php on line 45
+[15-Jan-2016 09:39:41 Pacific/Auckland] PHP Notice:  Undefined variable: currentAlbumID in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/entries.php on line 45
+[15-Jan-2016 09:46:01 Pacific/Auckland] PHP Warning:  Creating default object from empty value in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/entries.php on line 54
+[15-Jan-2016 09:46:01 Pacific/Auckland] PHP Fatal error:  Call to undefined method stdClass::save() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/entries.php on line 59
+[15-Jan-2016 09:46:37 Pacific/Auckland] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/photo.php on line 202
+[15-Jan-2016 09:47:20 Pacific/Auckland] PHP Notice:  Undefined variable: current_date in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/entries.php on line 59
+[14-Jan-2016 21:47:20 Europe/Berlin] PHP Notice:  Undefined index: albumID in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/entries.php on line 25
+[15-Jan-2016 09:47:20 Pacific/Auckland] PHP Notice:  Undefined variable: aAllPhotos in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/entries.php on line 71
+[15-Jan-2016 09:47:20 Pacific/Auckland] PHP Warning:  array_reverse() expects parameter 1 to be array, null given in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/entries.php on line 71
+[15-Jan-2016 09:47:20 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 192
+[15-Jan-2016 09:48:38 Pacific/Auckland] PHP Notice:  Undefined variable: current_date in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/entries.php on line 59
+[15-Jan-2016 09:48:56 Pacific/Auckland] PHP Notice:  Undefined variable: current_date in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/entries.php on line 59
+[15-Jan-2016 09:52:37 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[15-Jan-2016 09:52:50 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[15-Jan-2016 10:02:54 Pacific/Auckland] PHP Notice:  Undefined variable: oUser in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 198
+[15-Jan-2016 10:02:54 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 198
+[15-Jan-2016 10:02:54 Pacific/Auckland] PHP Notice:  Undefined variable: oUser in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 198
+[15-Jan-2016 10:02:54 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 198
+[15-Jan-2016 10:02:54 Pacific/Auckland] PHP Notice:  Undefined variable: oUser in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 198
+[15-Jan-2016 10:02:54 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 198
+[15-Jan-2016 10:02:54 Pacific/Auckland] PHP Notice:  Undefined variable: oUser in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 198
+[15-Jan-2016 10:02:54 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 198
+[15-Jan-2016 10:02:54 Pacific/Auckland] PHP Notice:  Undefined variable: oUser in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 198
+[15-Jan-2016 10:02:54 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 198
+[15-Jan-2016 10:03:11 Pacific/Auckland] PHP Notice:  Undefined variable: iPhotoID in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 196
+[15-Jan-2016 10:03:11 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 196
+[15-Jan-2016 10:03:11 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[15-Jan-2016 10:04:20 Pacific/Auckland] PHP Notice:  Array to string conversion in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 200
+[15-Jan-2016 10:04:20 Pacific/Auckland] PHP Notice:  Array to string conversion in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 200
+[15-Jan-2016 10:18:28 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[15-Jan-2016 10:23:45 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[14-Jan-2016 23:00:17 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'loadByContestID' (T_STRING), expecting variable (T_VARIABLE) in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/photo.php on line 240
+[14-Jan-2016 23:03:26 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 32
+[14-Jan-2016 23:07:06 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$sHTML' (T_VARIABLE) in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 28
+[15-Jan-2016 11:07:16 Pacific/Auckland] PHP Notice:  Array to string conversion in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 34
+[14-Jan-2016 23:07:28 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.' in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 34
+[15-Jan-2016 11:10:23 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 30
+[15-Jan-2016 11:11:22 Pacific/Auckland] PHP Notice:  Undefined variable: aAllPhotos in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 30
+[15-Jan-2016 11:11:22 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 30
+[15-Jan-2016 11:13:10 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 33
+[15-Jan-2016 11:13:10 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[15-Jan-2016 11:13:39 Pacific/Auckland] PHP Fatal error:  Unsupported operand types in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 34
+[15-Jan-2016 11:14:51 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 33
+[15-Jan-2016 11:14:51 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[15-Jan-2016 11:14:56 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 33
+[15-Jan-2016 11:14:56 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[15-Jan-2016 11:15:01 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 33
+[15-Jan-2016 11:15:01 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[15-Jan-2016 11:15:07 Pacific/Auckland] PHP Fatal error:  Unsupported operand types in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 34
+[15-Jan-2016 11:15:48 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 33
+[15-Jan-2016 11:15:48 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[15-Jan-2016 11:16:33 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 33
+[15-Jan-2016 11:16:33 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[15-Jan-2016 11:16:44 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 33
+[15-Jan-2016 11:16:44 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 33
+[15-Jan-2016 11:16:56 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 33
+[15-Jan-2016 11:16:56 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 33
+[15-Jan-2016 11:17:02 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 33
+[15-Jan-2016 11:17:02 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 33
+[15-Jan-2016 11:17:06 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 33
+[15-Jan-2016 11:17:06 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 33
+[15-Jan-2016 11:17:47 Pacific/Auckland] PHP Notice:  Trying to get property of non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 33
+[15-Jan-2016 11:17:47 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 33
+[15-Jan-2016 11:24:21 Pacific/Auckland] PHP Fatal error:  Unsupported operand types in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 34
+[15-Jan-2016 11:24:37 Pacific/Auckland] PHP Fatal error:  Unsupported operand types in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 34
+[15-Jan-2016 11:24:50 Pacific/Auckland] PHP Notice:  Array to string conversion in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 34
+[15-Jan-2016 11:24:50 Pacific/Auckland] PHP Notice:  Array to string conversion in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 34
+[14-Jan-2016 23:25:09 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.' in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 34
+[15-Jan-2016 11:34:41 Pacific/Auckland] PHP Warning:  password_hash() expects at least 2 parameters, 1 given in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/register.php on line 50
+[15-Jan-2016 11:59:20 Pacific/Auckland] PHP Notice:  Undefined variable: aPhotos in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/photo.php on line 270
+[15-Jan-2016 11:59:20 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 11:59:55 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 11:59:55 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:01:44 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:01:44 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:01:46 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:01:46 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:01:47 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:01:47 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:01:47 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:01:47 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:02:17 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:02:17 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:02:22 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:02:22 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:02:38 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:02:38 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:02:42 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:02:42 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:03:13 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:03:13 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:03:46 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:03:46 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:03:46 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:04:07 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:04:07 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:04:07 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:04:15 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:04:15 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:04:15 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:04:23 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:04:23 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:04:23 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:05:02 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:05:22 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 32
+[15-Jan-2016 12:05:58 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:06:00 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 31
+[15-Jan-2016 12:07:33 Pacific/Auckland] PHP Notice:  Undefined variable: aPhotos in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/photo.php on line 269
+[15-Jan-2016 12:07:33 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 32
+[15-Jan-2016 12:09:14 Pacific/Auckland] PHP Notice:  Undefined variable: aPhotos in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/photo.php on line 269
+[15-Jan-2016 12:09:14 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 32
+[15-Jan-2016 12:09:44 Pacific/Auckland] PHP Notice:  Undefined variable: aPhotos in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/photo.php on line 269
+[15-Jan-2016 12:09:44 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/views/view.php on line 32
+[15-Jan-2016 12:11:59 Pacific/Auckland] PHP Notice:  Undefined variable: aPhotos in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/photo.php on line 269
+[15-Jan-2016 12:12:41 Pacific/Auckland] PHP Notice:  Undefined variable: aPhotos in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/photo.php on line 269
+[15-Jan-2016 12:12:41 Pacific/Auckland] PHP Notice:  Undefined variable: aPhotos in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/photo.php on line 269
+[15-Jan-2016 12:12:54 Pacific/Auckland] PHP Notice:  Undefined variable: aPhotos in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/photo.php on line 269
+[15-Jan-2016 12:18:37 Pacific/Auckland] PHP Notice:  Undefined variable: aPhotos in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/photo.php on line 269
+[15-Jan-2016 12:19:00 Pacific/Auckland] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 26
+[15-Jan-2016 12:19:00 Pacific/Auckland] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 26
+[15-Jan-2016 12:19:00 Pacific/Auckland] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/connection.php on line 26
+[15-Jan-2016 12:19:55 Pacific/Auckland] PHP Notice:  Undefined variable: aPhotos in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/photo.php on line 272
+[15-Jan-2016 12:21:10 Pacific/Auckland] PHP Notice:  Undefined variable: aPhotos in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/photo.php on line 268
+[15-Jan-2016 12:21:48 Pacific/Auckland] PHP Notice:  Undefined variable: aPhotos in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/photo.php on line 268
+[15-Jan-2016 12:21:48 Pacific/Auckland] PHP Notice:  Undefined variable: aPhotos in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/photo.php on line 268
+[15-Jan-2016 12:22:37 Pacific/Auckland] PHP Warning:  Cannot use a scalar value as an array in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/photo.php on line 265
+[15-Jan-2016 12:22:37 Pacific/Auckland] PHP Warning:  Cannot use a scalar value as an array in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/photo.php on line 265
+[15-Jan-2016 12:22:37 Pacific/Auckland] PHP Warning:  Cannot use a scalar value as an array in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/includes/models/photo.php on line 265
+[20-Jan-2016 08:25:45 Pacific/Auckland] PHP Notice:  Undefined index: gender in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/register.php on line 55
+[20-Jan-2016 08:31:45 Pacific/Auckland] PHP Notice:  Undefined index: gender in /Applications/XAMPP/xamppfiles/htdocs/photoriver-master/register.php on line 55

@@ -1,0 +1,18 @@
+17-12-15
+
+*Date option
+*Album select sticky data
+* fix registration. Phone should include 0 start
+fix view image
+
+*create contest(album)
+add voters (By owner)
+*upload photos (By all members)
+
+21-12-15
+*fix like. not saving userid and photoid
+
+22-12-15
+*Fix comment username
+Fix like button thumb down
+Fix comment refresh when modal close
